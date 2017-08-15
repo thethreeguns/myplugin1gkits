@@ -4,3 +4,14 @@ author: thethreeguns
 main: gkits\Main
 api: [3.0.0-ALPHA7]
 version: 1.0.0v_beta
+
+commands:
+ gkits:
+  description: "Godkits plugin for PocketMine."
+  usage: "/gkits [args]..."
+  permission: use.gkits
+    
+permissions:
+ use.gkits:
+ default: true
+ description: "Allows user to use /gkit command."
