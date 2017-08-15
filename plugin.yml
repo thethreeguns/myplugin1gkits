@@ -1,0 +1,6 @@
+
+name: gkits
+author: thethreeguns
+main: gkits\Main
+api: [3.0.0-ALPHA7]
+version: 1.0.0v_beta
